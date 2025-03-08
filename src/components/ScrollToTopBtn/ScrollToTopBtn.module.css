@@ -1,0 +1,39 @@
+.scroll-to-top {
+	--btnWidth: 64px;
+	--btnHeight: 64px;
+	position: fixed;
+	bottom: 15px;
+	right: 15px;
+	width: var(--btnWidth);
+	height: var(--btnHeight);
+	border-radius: 100%;
+	border: none;
+	display: none;
+	place-items: center;
+	cursor: pointer;
+	box-shadow: 0 0 10px #393939;
+	margin: 0;
+	padding: 0;
+	opacity: 0.75;
+	transition: opacity 0.2s;
+	overflow: hidden;
+	z-index: 999;
+}
+
+.scroll-to-top:hover {
+	opacity: 1;
+}
+
+.scroll-to-top > :global(.icon-container) {
+	--iconWidth: calc(var(--btnWidth) - 8px);
+	--iconHeight: calc(var(--btnHeight) - 8px);
+	background-color: #393939;
+}
+
+@media screen and (min-width: 400px) {
+	.scroll-to-top > :global(.icon-container) {
+		--iconWidth: calc(var(--btnWidth) - 8px - 12px);
+		--iconHeight: calc(var(--btnHeight) - 8px - 12px);
+	}
+}
+
