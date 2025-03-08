@@ -43,7 +43,7 @@ const footerLinks = [
 		links: [
 			{ link: "/", label: "Home", target: "_self" },
 			{
-				link: "https://www.linkedin.com/in/harsh-deradi1/",
+				link: "https://developer-portfolio-harsh-deradis-projects.vercel.app/",
 				label: "Founder",
 				target: "_blank",
 			},
