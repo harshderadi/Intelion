@@ -4,7 +4,8 @@
 **INTELION** is a front-end web application built using modern web technologies. It serves as a landing page for an imaginary Application Development Company.
 
 ## Live Version
-[INTELION - Live Version](https://guymenje.netlify.app/)
+[INTELION - Live Version](https://intelion-three.vercel.app/)
+
 
 ## Tech Stack
 - **Vite** - Fast development server and bundler
