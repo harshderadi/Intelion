@@ -1,4 +1,4 @@
-```markdown
+
 # INTELION
 
 **INTELION** is a front-end web application built using modern web technologies. It serves as a landing page for an imaginary Application Development Company.
