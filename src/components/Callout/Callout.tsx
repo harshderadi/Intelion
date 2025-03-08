@@ -93,11 +93,6 @@ const Callout = () => {
 						onClick={() => showContactInfo("Whatsapp", "+917400862651")}>
 						<Icon name="whatsapp" color="white" className={styles["icon"]} />
 					</button>
-					<button
-						className={styles["contact-type"] + " copy-btn"}
-						onClick={() => showContactInfo("Wechat ID", "harshderadi")}>
-						<Icon name="wechat" color="white" className={styles["icon"]} />
-					</button>
 				</div>
 			</Collapsible>
 		</div>

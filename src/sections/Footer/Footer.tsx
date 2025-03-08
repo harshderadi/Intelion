@@ -4,7 +4,7 @@ import Block from "./../../components/Block/index";
 import styles from "@/sections/Footer/Footer.module.css";
 import IconContainer from "./../../components/Icon/IconContainer";
 import Icon from "../../components/Icon";
-import logoDark from "./../../assets/logo1-dark.png";
+import logoDark from "./../../assets/logo-dark.png";
 
 const footerLinks = [
 	{
