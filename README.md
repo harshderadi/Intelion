@@ -1,7 +1,7 @@
 
 # INTELION
 
-**INTELION** is a front-end web application built using modern web technologies. It serves as a landing page for an imaginary Application Development Company.
+**INTELION** is a front-end web application built using modern web technologies. It serves as a landing page for an imaginary IT service Company.
 
 ## Live Version
 [INTELION - Live Version](https://intelion-three.vercel.app/)
