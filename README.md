@@ -42,5 +42,5 @@ To run the project locally:
 
 ## Contributing
 Feel free to contribute by forking the repository, making changes, and submitting a pull request.
-```
+
 
