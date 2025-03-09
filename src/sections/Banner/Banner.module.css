@@ -16,6 +16,8 @@
 
 .banner__content {
 	text-align: center;
+	padding-top: 30px;
+	padding-left: 0px;
 }
 
 @media screen and (min-width: 768px) {

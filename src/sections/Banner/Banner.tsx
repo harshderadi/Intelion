@@ -25,9 +25,9 @@ const Banner = () => {
 						<BlockHeader>
 							<div
 								className={styles["banner__content"]}
-								style={{ textAlign: "center" }}
+								
 							>
-								<h1 style={{ marginTop: "0" }}>INTELION</h1>
+								<h1 style={{ marginTop: "5" }}>INTELION</h1>
 								<h2
 									style={{
 										marginTop: "0",
@@ -38,7 +38,7 @@ const Banner = () => {
 								</h2>
 								<p
 									className={styles["banner__tagline"]}
-									style={{ textAlign: "center" }}
+									
 								>
 									Go from idea to fully-functional
 									applications incredibly fast.
